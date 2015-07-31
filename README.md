@@ -19,7 +19,7 @@ Modules:
         Password change
         Unban
         Billing History
-        ?btaining Fire Points (Donation convert to virtual currency)
+        Obtaining Fire Points (Donation convert to virtual currency)
         Registration
 
 More information and items at: ZoneWoW.com
